@@ -1,0 +1,16 @@
+{
+  "name": "cachet-mastodon-stats",
+  "version": "1.0.0",
+  "description": "Show the stats of your mastodon instance directly on Cachet",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Vieira <contact+dev[at]mvieira[dot]fr>",
+  "license": "MIT"
+}

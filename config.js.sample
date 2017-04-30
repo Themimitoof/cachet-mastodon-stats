@@ -1,0 +1,21 @@
+var config = {
+    general: {
+        cachet_uri: "https://status.themimitoof.fr/",
+        api_token: "",
+        instance_about_uri: "https://masto.themimitoof.fr/about/more"
+    },
+    users: {
+        enabled: true,
+        metric_id: 1
+    },
+    posts: {
+        enabled: true,
+        metric_id: 2
+    },
+    instances: {
+        enabled: true,
+        metric_id: 3
+    }
+}
+
+module.exports = config;
