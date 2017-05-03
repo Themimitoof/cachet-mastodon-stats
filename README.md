@@ -60,7 +60,7 @@ __Note :__ Before adding metric, please ensure the timezone in your ```php.ini``
 
 Here is my recommended configuration for metrics charts:
  * _Calculation of metrics_: Average
- * _Default view_: Last 12 Hours _or_ Week
+ * _Default view_: ~~Last 12 Hours _or_~~ (I have some problems with this view) Week
  * _Default value_: 0
  * _Decimal places_: 0
  * _How many minutes of threshold between metric points?_: 0
